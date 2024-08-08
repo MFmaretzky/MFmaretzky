@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MFmaretzky
-- 👀 I’m interested in embedded systems development broadly understood programming and electronics
+- 👀 I’m interested in embedded systems development, broadly understood programming and electronics
 - 🌱 I’m currently learning JavaScript HTML and CSS
 - 💞️ I’m looking to collaborate on any project that involves microcontrollers
 - 📫 www.instagram.com/mf_maretzky/
